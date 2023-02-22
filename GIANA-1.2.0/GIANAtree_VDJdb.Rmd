@@ -1,0 +1,149 @@
+---
+title: "GIANAtree_VDJdb"
+author: "JUFENG_YANG"
+date: "2023-02-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{R}
+library(ape)  ## generate neighbor joining tree
+```
+
+
+```{R}
+# ffc='TCRantigenData_unique--RotationEncodingBL62.txt'  ## GIANA standard output
+# ffm='TCRantigenData_unique--RotationEncodingBL62.txt_EncodingMatrix.txt'  ## Output matrix with -M option
+
+ffc_vdj = 'VDJdb_TRA_human_GIANA--RotationEncodingBL62.txt'  ## GIANA standard output
+ffm_vdj = 'VDJdb_TRA_human_GIANA--RotationEncodingBL62.txt_EncodingMatrix.txt'  ## Output matrix with -M option
+
+d1_vdj = read.table(ffc_vdj, header=F,sep='\t',stringsAsFactors = F)
+Mat_vdj = read.table(ffm_vdj, header=F,sep='\t',stringsAsFactors = F)
+
+```
+
+
+```{R}
+d1_vdj = read.table(ffc_vdj, header=F,sep='\t',stringsAsFactors = F)
+Mat_vdj = read.table(ffm_vdj, header=F,sep='\t',stringsAsFactors = F)
+d1_vdj
+
+## combining antigen annotation
+# tmp_vdj = d1_vdj[,5]
+# tmp_vdj = unlist(sapply(tmp_vdj,function(x)x[length(x)]))
+# d1_vdj = cbind(d1,A_e=tmp_vdj)
+# d1[grep('Antigen:M1',d1[,7]),7]='GILGFVFTL'
+# d1[grep('Antigen:pp65',d1[,7]),7]='NLVPMVATV'
+# d1[grep('Antigen:BMLF',d1[,7]),7]='GLCTLVAML'
+# d1[grep('Antigen:CMV-NLV',d1[,7]),7]='NLVPMVATV'
+# d1[grep('Antigen:CMV-MLN',d1[,7]),7]='MLNIPSINV'
+# d1[grep('Antigen:YFV-LLW',d1[,7]),7]='LLWNGPMAV'
+# d1[which(d1[,7]=='LLW'),7]='LLWNGPMAV'
+# d1[grep('Antigen:HCV-KLV',d1[,7]),7]="KLVALGINAV"
+# d1_vdj
+Mat_vdj
+```
+
+
+
+```{R}
+Mat_vdj = Mat_vdj[,c(1,6:101)]
+Mat_vdj = unique(Mat_vdj)
+Mat_vdj
+rownames(Mat_vdj) = Mat_vdj[,1]
+Mat_vdj = Mat_vdj[,2:97]
+
+## now combine TCR clusters with isometric coordinates
+d1_vdj = cbind(d1_vdj, Mat_vdj[d1_vdj[,1],])
+d1_vdj
+```
+
+```{R}
+
+write.csv(d1_vdj, 'Processed_dataset_by_GIANA.csv')
+
+```
+
+
+```{R}
+
+## Choose a subset of TCRs specific to the M1 GIL epitope
+
+# tt0_vdj = table(d1_vdj[,2], d1_vdj[,7])
+# LL_vdj = apply(tt0_vdj, 1, function(x)length(which(x>0)))
+# names(which(LL == 1)) -> vv.tcrG_vdj
+# nn.pure=rownames(tt0_vdj[vv.tcrG_vdj,])
+# vv.select_vdj = grep('GIL',d1_vdj[,6])
+
+# nna=unique(d1[vv.select,2])
+# nna=intersect(nna,nn.pure)
+
+## nna contains too many clusters. Randomly select 20 of them.
+# nna1=sample(nna, 20)
+# ddc.s=d1[which(d1[,2] %in% nna1),]
+# ddc.s
+```
+
+
+```{R}
+Mat.cor_vdj = cor(t(d1_vdj[, 7:102]))
+Mat.dist_vdj = sqrt(1-Mat.cor_vdj)
+Mat.dist_vdj = data.frame(Mat.dist_vdj)
+Mat.dist_vdj
+```
+
+```{R}
+write.csv(Mat.dist_vdj, 'Distance_matrix_by_GIANA.csv')
+```
+
+
+```{R}
+tr = nj(Mat.dist)
+
+tr$tip.label = gsub('\\.[1-9]{1}$','', tr$tip.label)
+
+## A list of high-contrast colors
+COLs= c("dodgerblue2","gold", # red
+        "green4",
+        "#6A3D9A", # purple
+        "#FF7F00", # orange
+        "cyan",
+        "skyblue2","#FB9A99", # lt pink
+        "palegreen2",
+        "#CAB2D6", # lt purple
+        "#FDBF6F", # lt orange
+        "gray70", "khaki2",
+        "maroon","orchid1","deeppink1","blue1","steelblue4",
+        "darkturquoise","green1","yellow4","yellow3",
+        "darkorange4","brown")
+
+col.gr=COLs[1:20]
+names(col.gr)=nna1
+par(mar=c(0,0,0,0))
+plot.phylo(tr, font=2, cex=0.9, 
+           tip.color=col.gr[as.character(ddc.s[,2])], ## color the CDR3s according to antigen-specificity
+           align.tip.label=TRUE, x.lim=c(0,1.1))
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
