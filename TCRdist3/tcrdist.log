@@ -1,0 +1,538 @@
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRAV12D-1*03 ...........................................VQYLNEAPQVLLKSSTD...NKRTEH.....QGFHATLHKSS.SSFHLQKSSQLSDSALYYCA..... A.....
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13-4/DV7*02 1 0 5 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13-4/DV7*02 1 0 5 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13D-2*01 1 1 9 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13D-2*01 1 1 9 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13D-4*03 1 0 5 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13D-4*03 1 0 5 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13-4/DV7*02 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13-4/DV7*02 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/E 2 TRAV13-2*02 TRAV13-4/DV7*03 1 1 10 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/E 2 TRAV13-2*02 TRAV13-4/DV7*03 1 1 10 STA.......TE NPS.....GT VIKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13D-2*01 1 1 8 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13D-2*01 1 1 8 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13D-4*03 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13D-4*03 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV13-4/DV7*01 TRAV13D-2*01 1 1 7 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV13-4/DV7*01 TRAV13D-2*01 1 1 7 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV13-4/DV7*01 TRAV13D-4*03 1 0 2 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV13-4/DV7*01 TRAV13D-4*03 1 0 2 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13-2*01 1 0 5 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13-2*01 1 0 5 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13-2*02 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13-2*02 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13N-2*01 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13N-2*01 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse E/Q 2 TRAV13-4/DV7*03 TRAV13-2*02 1 1 10 STA.......TE NPS.....GT VIKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse E/Q 2 TRAV13-4/DV7*03 TRAV13-2*02 1 1 10 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse E/Q 2 TRAV13-4/DV7*03 TRAV13N-2*01 1 1 10 STA.......TE NPS.....GT VIKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse E/Q 2 TRAV13-4/DV7*03 TRAV13N-2*01 1 1 10 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-2*01 1 1 9 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-2*01 1 1 9 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-2*02 1 1 8 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-2*02 1 1 8 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-4/DV7*01 1 1 7 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-4/DV7*01 1 1 7 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13N-2*01 1 1 8 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13N-2*01 1 1 8 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-2*01 1 0 5 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-2*01 1 0 5 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-2*02 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-2*02 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-4/DV7*01 1 0 2 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-4/DV7*01 1 0 2 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13N-2*01 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13N-2*01 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13-4/DV7*02 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13-4/DV7*02 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/E 2 TRAV13N-2*01 TRAV13-4/DV7*03 1 1 10 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/E 2 TRAV13N-2*01 TRAV13-4/DV7*03 1 1 10 STA.......TE NPS.....GT VIKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13D-2*01 1 1 8 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13D-2*01 1 1 8 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13D-4*03 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13D-4*03 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse N/D 1 TRAV14-3*02 TRAV14D-3/DV8*08 1 0 2 NSA......FDY ILSV...SNK NKRE.KK
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse N/D 1 TRAV14-3*02 TRAV14D-3/DV8*08 1 0 2 NSA......FDY ILSV...SDK NKRE.KK
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse D/N 1 TRAV14D-3/DV8*08 TRAV14-3*02 1 0 2 NSA......FDY ILSV...SDK NKRE.KK
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse D/N 1 TRAV14D-3/DV8*08 TRAV14-3*02 1 0 2 NSA......FDY ILSV...SNK NKRE.KK
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV16*01 TRAV16D/DV11*03 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV16*01 TRAV16D/DV11*03 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV16*01 TRAV16N*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV16*01 TRAV16N*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV16*02 TRAV16D/DV11*03 1 0 3 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV16*02 TRAV16D/DV11*03 1 0 3 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV16*02 TRAV16N*01 1 0 3 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV16*02 TRAV16N*01 1 0 3 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV16D/DV11*01 TRAV16N*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV16D/DV11*01 TRAV16N*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse Q/R 1 TRAV16D/DV11*02 TRAV16N*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse Q/R 1 TRAV16D/DV11*02 TRAV16N*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV16D/DV11*03 TRAV16*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV16D/DV11*03 TRAV16*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV16D/DV11*03 TRAV16*02 1 0 3 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV16D/DV11*03 TRAV16*02 1 0 3 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16*02 1 0 3 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16*02 1 0 3 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16D/DV11*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16D/DV11*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16D/DV11*02 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16D/DV11*02 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse N/D 1 TRAV5-4*01 TRAV5D-4*02 1 0 6 NSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse N/D 1 TRAV5-4*01 TRAV5D-4*02 1 0 6 DSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRAV5D-2*01 GKQVELLP.SILRFKEGTNTLINCIYVNNA......LLCFLWYKQEPGKHLTFIIDIC*N...MERKQS.....QRFIVLLNKKS.KHFSLHNTDNQPQD*AMYF*K.... *K....
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse D/N 1 TRAV5D-4*02 TRAV5-4*01 1 0 6 DSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse D/N 1 TRAV5D-4*02 TRAV5-4*01 1 0 6 NSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse D/N 1 TRAV5D-4*02 TRAV5N-4*01 1 0 3 DSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse D/N 1 TRAV5D-4*02 TRAV5N-4*01 1 0 3 NSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRAV5N-2*01 GKQVELLP.SILRFKEETNTLINCIYVNNA......LLCFLWYKQEPGKHPTFIIDIC*N...MERKQS.....QRFIVLLNKKS.KHFSLHNTDNQPQD*AMYF*K.... *K....
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse N/D 1 TRAV5N-4*01 TRAV5D-4*02 1 0 3 NSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse N/D 1 TRAV5N-4*01 TRAV5D-4*02 1 0 3 DSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse N/D 1 TRAV7-6*01 TRAV7D-6*01 1 0 8 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse N/D 1 TRAV7-6*01 TRAV7D-6*01 1 0 8 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse D/N 1 TRAV7-6*02 TRAV7D-6*02 1 0 5 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse D/N 1 TRAV7-6*02 TRAV7D-6*02 1 0 5 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse D/N 1 TRAV7-6*02 TRAV7N-6*01 1 0 5 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse D/N 1 TRAV7-6*02 TRAV7N-6*01 1 0 5 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse D/N 1 TRAV7D-6*01 TRAV7-6*01 1 0 8 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse D/N 1 TRAV7D-6*01 TRAV7-6*01 1 0 8 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse D/N 1 TRAV7D-6*01 TRAV7N-6*01 1 0 7 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse D/N 1 TRAV7D-6*01 TRAV7N-6*01 1 0 7 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse N/D 1 TRAV7D-6*02 TRAV7-6*02 1 0 5 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse N/D 1 TRAV7D-6*02 TRAV7-6*02 1 0 5 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse N/D 1 TRAV7N-6*01 TRAV7-6*02 1 0 5 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse N/D 1 TRAV7N-6*01 TRAV7-6*02 1 0 5 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: mouse N/D 1 TRAV7N-6*01 TRAV7D-6*01 1 0 7 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: mouse N/D 1 TRAV7N-6*01 TRAV7D-6*01 1 0 7 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRBV10*01 DGGITQTPRYWITQTSRKIILNYSQDMNH.......YRMFWYQQDAGQGLKLIHYSVG....TDRTTKSDVPEGYSAFRNE.IQSFPLTLESTSSNQTSMYFWASSEQ ASSEQ
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRBV8*01 SAGIIQTPKSLILKAGQHVTIKCTQDMKH.......DSMLWYRQDPWLELRVI*YSYD....AGIIDKEEVS.KGYNVSRS.CTEDFTFTVELASPSQTSVYFGASSS GASSS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRAV1-2*02 GQNIDQ.PTEMTATEGAIVQINCTYQTSG......FNGLFWYQQHAGEAPTFLSYNVL....DGLEEK.....G...................................... .........
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRAV13-1*03 GENVEQHPSTLSVQEGDSAVIKCTYSDSA......SNYFPWYKQELGKRPQLIIDIRSN...VGEKKD.....QRIAVTLNKTAKHFSLQIT.................... .........
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRAV14/DV4*04 .QKITQTQPGMFVQEKEAVTLDCTYDTSDQ.....SYGLFWYKQPSSGEMIFLIYQGSY..DEQNATE.....GRYSLNFQKARKSANLVISASQLGDSAMYF......... .........
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRAV26-2*02 DAKTTQ.PNSMESNEEEPVHLPCNHSTISG.....TDYIHWYRQLPSQGPEYVIHGLT.....SNVNN.....RMACVAIAEDRKSST........................ .........
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRAV30*04 QQPV.QSPQAVILREGEDAVINCSSSKAL.......YSVHWYRQKHGEAPVFLMILLKG...GEQKRH.....EKISASFNEKKQQSSLYLT.................... .........
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: human N/S 1 TRAV38-1*02 TRAV38-2/DV8*01 1 0 2 TSEN.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: human N/S 1 TRAV38-1*02 TRAV38-2/DV8*01 1 0 2 TSES.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: human N/D 1 TRAV38-1*03 TRAV38-2/DV8*01 1 0 2 TSES.....NYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: human N/D 1 TRAV38-1*03 TRAV38-2/DV8*01 1 0 2 TSES.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: human S/N 1 TRAV38-2/DV8*01 TRAV38-1*02 1 0 2 TSES.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: human S/N 1 TRAV38-2/DV8*01 TRAV38-1*02 1 0 2 TSEN.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 115]
+	v_mismatches: human D/N 1 TRAV38-2/DV8*01 TRAV38-1*03 1 0 2 TSES.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 117]
+	v_mismatches: human D/N 1 TRAV38-2/DV8*01 TRAV38-1*03 1 0 2 TSES.....NYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRAV6*06 SQKIEQNSEALNIQEGKTATLTCNYTNYS......PAYLQWYRQDPGRGPVFLLLIREN...EKEKRK.....ERLKVTFDTTLNQ.......................... .........
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRAV8-1*02 AQSVSQHNHHVILSEAASLELGCNYSYGG......TVNLFWYVQYPGQHLQLLLKYFSG..DPLVKGI.....KGVEAEFIKSKFSFNLRKPSVQW................ .........
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRBV10-2*02 ................RQVTLMCHQTWSH.......SYMFWYRQDLGHGLRLIYYSAA....ADITDKGEVP.DGYVVSRS.KTENFPLTLESATRSQTSV........ ......
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRBV17*01 EPGVSQTPRHKVTNMGQEVILRCDPSSGH.......MFVHWYRQNLRQEMKLLISFQY....QNIAVDSGMPKERFTAERP.NGTSSTLKIHPAEPRDSAVYLYSSG.. YSSG..
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRBV23/OR9-2*02 HAKVTQTPGYLVKGKGRKTKMYCTPKNGH.......TFVCWYQQNQNKEFMFLISFQN....EQVLQEMEMHKKRFSSQCP.KNAPCSL.................... ......
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRBV26*01 DAVVTQFPRHRIIGTGKEFILQCSQNMNH.......VTMYWYRQDPGLGLKLVYYSPG....TGSTEKGDIS.EGYHVS*N.TIASFPLTLKSASTNQTSVYLYASSS. YASSS.
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRBV7-3*02 GAGVSQTPSNKVTEKGKDVELRCDPISGH.......TALYWYRQSLGQGPEFLIYFQG....TGAADDSGLPKDRFFAVRP.EGSVSTLKIQRTEQGDSAVYLRASSL. RASSL.
+[02/06/2023 05:20:04 PM] [ERROR] [all_genes.py: 56]
+	funny cpos: TRBV7-3*03 GAGVSQTPSNKVTEKGKDVELRCDPISGH.......TALYWYRQSLGQGPEFLIYFQG....TGAADDSGLPKDRFFAVRP.EGSVSTLKIQRTEQGDSAAYLRASSL. RASSL.
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRAV12D-1*03 A
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRAV5D-2*01 *
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRAV5N-2*01 *
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRBV10*01 A
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRBV8*01 G
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13-4/DV7*02 1 0 5 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13-4/DV7*02 1 0 5 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13D-2*01 1 1 9 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13D-2*01 1 1 9 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13D-4*03 1 0 5 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV13-2*01 TRAV13D-4*03 1 0 5 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13-4/DV7*02 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13-4/DV7*02 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/E 2 TRAV13-2*02 TRAV13-4/DV7*03 1 1 10 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/E 2 TRAV13-2*02 TRAV13-4/DV7*03 1 1 10 STA.......TE NPS.....GT VIKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13D-2*01 1 1 8 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13D-2*01 1 1 8 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13D-4*03 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV13-2*02 TRAV13D-4*03 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV13-4/DV7*01 TRAV13D-2*01 1 1 7 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV13-4/DV7*01 TRAV13D-2*01 1 1 7 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV13-4/DV7*01 TRAV13D-4*03 1 0 2 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV13-4/DV7*01 TRAV13D-4*03 1 0 2 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13-2*01 1 0 5 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13-2*01 1 0 5 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13-2*02 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13-2*02 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13N-2*01 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV13-4/DV7*02 TRAV13N-2*01 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse E/Q 2 TRAV13-4/DV7*03 TRAV13-2*02 1 1 10 STA.......TE NPS.....GT VIKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse E/Q 2 TRAV13-4/DV7*03 TRAV13-2*02 1 1 10 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse E/Q 2 TRAV13-4/DV7*03 TRAV13N-2*01 1 1 10 STA.......TE NPS.....GT VIKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse E/Q 2 TRAV13-4/DV7*03 TRAV13N-2*01 1 1 10 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-2*01 1 1 9 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-2*01 1 1 9 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-2*02 1 1 8 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-2*02 1 1 8 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-4/DV7*01 1 1 7 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13-4/DV7*01 1 1 7 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13N-2*01 1 1 8 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV13D-2*01 TRAV13N-2*01 1 1 8 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-2*01 1 0 5 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-2*01 1 0 5 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-2*02 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-2*02 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-4/DV7*01 1 0 2 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13-4/DV7*01 1 0 2 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13N-2*01 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV13D-4*03 TRAV13N-2*01 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13-4/DV7*02 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13-4/DV7*02 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/E 2 TRAV13N-2*01 TRAV13-4/DV7*03 1 1 10 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/E 2 TRAV13N-2*01 TRAV13-4/DV7*03 1 1 10 STA.......TE NPS.....GT VIKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13D-2*01 1 1 8 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13D-2*01 1 1 8 STA.......TR NPS.....GT VTNE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13D-4*03 1 0 4 STA.......TQ NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV13N-2*01 TRAV13D-4*03 1 0 4 STA.......TR NPS.....GT VTKE.RR
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse N/D 1 TRAV14-3*02 TRAV14D-3/DV8*08 1 0 2 NSA......FDY ILSV...SNK NKRE.KK
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse N/D 1 TRAV14-3*02 TRAV14D-3/DV8*08 1 0 2 NSA......FDY ILSV...SDK NKRE.KK
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse D/N 1 TRAV14D-3/DV8*08 TRAV14-3*02 1 0 2 NSA......FDY ILSV...SDK NKRE.KK
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse D/N 1 TRAV14D-3/DV8*08 TRAV14-3*02 1 0 2 NSA......FDY ILSV...SNK NKRE.KK
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV16*01 TRAV16D/DV11*03 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV16*01 TRAV16D/DV11*03 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV16*01 TRAV16N*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV16*01 TRAV16N*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV16*02 TRAV16D/DV11*03 1 0 3 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV16*02 TRAV16D/DV11*03 1 0 3 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV16*02 TRAV16N*01 1 0 3 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV16*02 TRAV16N*01 1 0 3 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV16D/DV11*01 TRAV16N*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV16D/DV11*01 TRAV16N*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse Q/R 1 TRAV16D/DV11*02 TRAV16N*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse Q/R 1 TRAV16D/DV11*02 TRAV16N*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV16D/DV11*03 TRAV16*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV16D/DV11*03 TRAV16*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV16D/DV11*03 TRAV16*02 1 0 3 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV16D/DV11*03 TRAV16*02 1 0 3 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16*02 1 0 3 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16*02 1 0 3 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16D/DV11*01 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16D/DV11*01 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16D/DV11*02 1 0 2 TRDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:04 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse R/Q 1 TRAV16N*01 TRAV16D/DV11*02 1 0 2 TQDS.....SYF QDSY..KKEN QKPK.SS
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse N/D 1 TRAV5-4*01 TRAV5D-4*02 1 0 6 NSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse N/D 1 TRAV5-4*01 TRAV5D-4*02 1 0 6 DSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse D/N 1 TRAV5D-4*02 TRAV5-4*01 1 0 6 DSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse D/N 1 TRAV5D-4*02 TRAV5-4*01 1 0 6 NSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse D/N 1 TRAV5D-4*02 TRAV5N-4*01 1 0 3 DSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse D/N 1 TRAV5D-4*02 TRAV5N-4*01 1 0 3 NSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse N/D 1 TRAV5N-4*01 TRAV5D-4*02 1 0 3 NSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse N/D 1 TRAV5N-4*01 TRAV5D-4*02 1 0 3 DSA......SNY IRSN...MER DKKA.KR
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse N/D 1 TRAV7-6*01 TRAV7D-6*01 1 0 8 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse N/D 1 TRAV7-6*01 TRAV7D-6*01 1 0 8 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse D/N 1 TRAV7-6*02 TRAV7D-6*02 1 0 5 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse D/N 1 TRAV7-6*02 TRAV7D-6*02 1 0 5 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse D/N 1 TRAV7-6*02 TRAV7N-6*01 1 0 5 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse D/N 1 TRAV7-6*02 TRAV7N-6*01 1 0 5 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse D/N 1 TRAV7D-6*01 TRAV7-6*01 1 0 8 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse D/N 1 TRAV7D-6*01 TRAV7-6*01 1 0 8 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse D/N 1 TRAV7D-6*01 TRAV7N-6*01 1 0 7 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse D/N 1 TRAV7D-6*01 TRAV7N-6*01 1 0 7 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse N/D 1 TRAV7D-6*02 TRAV7-6*02 1 0 5 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse N/D 1 TRAV7D-6*02 TRAV7-6*02 1 0 5 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse N/D 1 TRAV7N-6*01 TRAV7-6*02 1 0 5 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse N/D 1 TRAV7N-6*01 TRAV7-6*02 1 0 5 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: mouse N/D 1 TRAV7N-6*01 TRAV7D-6*01 1 0 7 NSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: mouse N/D 1 TRAV7N-6*01 TRAV7D-6*01 1 0 7 DSA......SQS IFS....NGN NRAS.LH
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 122]
+	short alseq: human TRAV1-2*02 104 74
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRAV1-2*02 .
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 122]
+	short alseq: human TRAV13-1*03 104 92
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRAV13-1*03 .
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 122]
+	short alseq: human TRAV14/DV4*04 104 103
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRAV14/DV4*04 .
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 122]
+	short alseq: human TRAV26-2*02 104 88
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRAV26-2*02 .
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 122]
+	short alseq: human TRAV30*04 104 92
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRAV30*04 .
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 122]
+	short alseq: human TRAV6*06 104 86
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRAV6*06 .
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 122]
+	short alseq: human TRAV8-1*02 104 96
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRAV8-1*02 .
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 122]
+	short alseq: human TRBV10-2*02 104 101
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRBV10-2*02 .
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRBV17*01 Y
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 122]
+	short alseq: human TRBV23/OR9-2*02 104 89
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRBV23/OR9-2*02 .
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRBV26*01 Y
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRBV7-3*02 R
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 126]
+	bad cpos: TRBV7-3*03 R
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: human N/S 1 TRAV38-1*02 TRAV38-2/DV8*01 1 0 2 TSEN.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: human N/S 1 TRAV38-1*02 TRAV38-2/DV8*01 1 0 2 TSES.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: human N/D 1 TRAV38-1*03 TRAV38-2/DV8*01 1 0 2 TSES.....NYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: human N/D 1 TRAV38-1*03 TRAV38-2/DV8*01 1 0 2 TSES.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: human S/N 1 TRAV38-2/DV8*01 TRAV38-1*02 1 0 2 TSES.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: human S/N 1 TRAV38-2/DV8*01 TRAV38-1*02 1 0 2 TSEN.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 300]
+	v_mismatches: human D/N 1 TRAV38-2/DV8*01 TRAV38-1*03 1 0 2 TSES.....DYY QEAY..KQQN QKAAKS
+[02/06/2023 05:20:05 PM] [ERROR] [cdr3s_human.py: 302]
+	v_mismatches: human D/N 1 TRAV38-2/DV8*01 TRAV38-1*03 1 0 2 TSES.....NYY QEAY..KQQN QKAAKS
