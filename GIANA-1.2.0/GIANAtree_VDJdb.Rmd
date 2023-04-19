@@ -15,14 +15,31 @@ library(ape)  ## generate neighbor joining tree
 
 
 ```{R}
-# ffc='TCRantigenData_unique--RotationEncodingBL62.txt'  ## GIANA standard output
-# ffm='TCRantigenData_unique--RotationEncodingBL62.txt_EncodingMatrix.txt'  ## Output matrix with -M option
+# ffc_vdj='VDJdb_TRA_TRB_human_GIANA--RotationEncodingBL62.txt'  ## GIANA standard output
+# ffm_vdj='VDJdb_TRA_TRB_human_GIANA--RotationEncodingBL62.txt_EncodingMatrix.txt'  ## Output matrix with -M option
 
-ffc_vdj = 'VDJdb_TRA_human_GIANA--RotationEncodingBL62.txt'  ## GIANA standard output
-ffm_vdj = 'VDJdb_TRA_human_GIANA--RotationEncodingBL62.txt_EncodingMatrix.txt'  ## Output matrix with -M option
+#ffc_vdj = 'VDJdb_TRA_human_GIANA--RotationEncodingBL62.txt'  ## GIANA standard output
+#ffm_vdj = 'VDJdb_TRA_human_GIANA--RotationEncodingBL62.txt_EncodingMatrix.txt'  ## Output matrix with -M option
 
-d1_vdj = read.table(ffc_vdj, header=F,sep='\t',stringsAsFactors = F)
-Mat_vdj = read.table(ffm_vdj, header=F,sep='\t',stringsAsFactors = F)
+#ffc_vdj = 'VDJdb_TRB_human_GIANA--RotationEncodingBL62.txt'  ## GIANA standard output
+#ffm_vdj = 'VDJdb_TRB_human_GIANA--RotationEncodingBL62.txt_EncodingMatrix.txt'  ## Output matrix with -M option
+
+
+# ffc_vdj = 'VDJdb_TRB_human_Conf_GIANA--RotationEncodingBL62.txt'  ## GIANA standard output
+# ffm_vdj = 'VDJdb_TRB_human_Conf_GIANA--RotationEncodingBL62.txt_EncodingMatrix.txt'  ## Output matrix with -M option
+
+# ffc_vdj = 'VDJdb_TRA_human_Conf_GIANA--RotationEncodingBL62.txt'  ## GIANA standard output
+# ffm_vdj = 'VDJdb_TRA_human_Conf_GIANA--RotationEncodingBL62.txt_EncodingMatrix.txt'  ## Output matrix with -M option
+
+ffc_vdj = "data/VDJdb_TRB_Conf_human--RotationEncodingBL62.txt"  ## GIANA standard output
+ffm_vdj = "data/VDJdb_TRB_Conf_human--RotationEncodingBL62.txt_EncodingMatrix.txt"  ## Output matrix with -M option
+
+
+# ffc_vdj = "data/VDJdb_TRB_human--RotationEncodingBL62.txt"  ## GIANA standard output
+# ffm_vdj = "data/VDJdb_TRB_human--RotationEncodingBL62.txt_EncodingMatrix.txt"  ## Output matrix with -M option
+
+#d1_vdj = read.table(ffc_vdj, header=F,sep='\t',stringsAsFactors = F)
+#Mat_vdj = read.table(ffm_vdj, header=F,sep='\t',stringsAsFactors = F)
 
 ```
 
@@ -48,24 +65,54 @@ d1_vdj
 Mat_vdj
 ```
 
-
-
 ```{R}
-Mat_vdj = Mat_vdj[,c(1,6:101)]
+# For TRA or TRB
+Mat_vdj = Mat_vdj[,c(1,8:103)]
 Mat_vdj = unique(Mat_vdj)
 Mat_vdj
 rownames(Mat_vdj) = Mat_vdj[,1]
 Mat_vdj = Mat_vdj[,2:97]
 
-## now combine TCR clusters with isometric coordinates
+# now combine TCR clusters with isometric coordinates
 d1_vdj = cbind(d1_vdj, Mat_vdj[d1_vdj[,1],])
 d1_vdj
 ```
 
+
+```{R}
+library(tidyr)
+
+```
+
+
+
+```{R}
+# For TRA_TRB_Paired
+# Mat_vdj = Mat_vdj[,c(1,4,9:104)]
+# Mat_vdj = unique(Mat_vdj)
+# Mat_vdj
+# Mat_m = unite(Mat_vdj, col='CDR_a_b', c('V1', 'V4'), sep='_')
+# rownames(Mat_vdj) = Mat_m[, 1]
+# Mat_vdj = Mat_vdj[,3:98]
+# Mat_vdj
+```
+
+
+```{R}
+## now combine TCR clusters with isometric coordinates
+# d1_vdj = cbind(d1_vdj, Mat_vdj[d1_vdj[,1],])
+# d1_vdj
+
+```
+
+
 ```{R}
 
-write.csv(d1_vdj, 'Processed_dataset_by_GIANA.csv')
-
+#write.csv(d1_vdj, 'Processed_TRA_by_GIANA.csv')
+#write.csv(d1_vdj, 'Processed_TRB_by_GIANA.csv')
+#write.csv(d1_vdj, 'Processed_TRA_TRB_by_GIANA.csv')
+write.csv(d1_vdj, 'data/Processed_TRB_Conf_human.csv')
+#write.csv(d1_vdj, 'Processed_TRB_Conf_by_GIANA.csv')
 ```
 
 
@@ -90,18 +137,45 @@ write.csv(d1_vdj, 'Processed_dataset_by_GIANA.csv')
 
 
 ```{R}
-Mat.cor_vdj = cor(t(d1_vdj[, 7:102]))
-Mat.dist_vdj = sqrt(1-Mat.cor_vdj)
-Mat.dist_vdj = data.frame(Mat.dist_vdj)
-Mat.dist_vdj
+# Mat.cor_vdj = cor(t(d1_vdj[, 7:102]))
+# Mat.dist_vdj = sqrt(1-Mat.cor_vdj)
+# Mat.dist_vdj = data.frame(Mat.dist_vdj)
+# Mat.dist_vdj
+```
+```{R}
+# Distance_matrix_TRA_by_GIANA <- Mat.dist_vdj
+# 
+# Distance_matrix_TRB_by_GIANA <- Mat.dist_vdj
 ```
 
 ```{R}
-write.csv(Mat.dist_vdj, 'Distance_matrix_by_GIANA.csv')
+#write.csv(Mat.dist_vdj, 'Distance_matrix_TRA_by_GIANA.csv')
+#write.csv(Mat.dist_vdj, 'Distance_matrix_TRB_by_GIANA.csv')
 ```
 
 
 ```{R}
+library(umap)
+
+umap_TRA <- umap(Distance_matrix_TRA_by_GIANA)
+
+plot()
+
+#VDJ_test = Processed_dataset_by_GIANA[0:2000]
+#TRA_epitope_label = VDJ_test['V6']
+#TRA_epitope_label = pd.Categorical(TRA_epitope_label).codes
+#print(TRA_epitope_label)
+
+#TRA_umap_fit = umap_TRA.fit_transform(Distance_matrix_by_GIANA_array[0:2000])
+
+
+
+```
+
+
+
+```{R}
+
 tr = nj(Mat.dist)
 
 tr$tip.label = gsub('\\.[1-9]{1}$','', tr$tip.label)
